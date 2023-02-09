@@ -11,7 +11,7 @@ set val(ifqlen) 50
 set val(nn) 6
 set val(stop) 100.0
 set val(rp) AODV
-#set val(cp) tcp-25-8
+#set val(cp) tcp1
 
 set ns [new Simulator]
 
